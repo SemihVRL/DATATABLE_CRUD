@@ -1,0 +1,12 @@
+C:\Users\semih\source\repos\Project2\Northwind.Entity\bin\Debug\Northwind.Entity.dll
+C:\Users\semih\source\repos\Project2\Northwind.Entity\bin\Debug\Northwind.Entity.pdb
+C:\Users\semih\source\repos\Project2\Northwind.Entity\obj\Debug\Northwind.Entity.csproj.AssemblyReference.cache
+C:\Users\semih\source\repos\Project2\Northwind.Entity\obj\Debug\Northwind.Entity.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\Project2\Northwind.Entity\obj\Debug\Northwind.Entity.dll
+C:\Users\semih\source\repos\Project2\Northwind.Entity\obj\Debug\Northwind.Entity.pdb
+C:\Users\semih\source\repos\KurumsalMimari_RecapProject2\Northwind.Entity\bin\Debug\Northwind.Entity.dll
+C:\Users\semih\source\repos\KurumsalMimari_RecapProject2\Northwind.Entity\bin\Debug\Northwind.Entity.pdb
+C:\Users\semih\source\repos\KurumsalMimari_RecapProject2\Northwind.Entity\obj\Debug\Northwind.Entity.csproj.AssemblyReference.cache
+C:\Users\semih\source\repos\KurumsalMimari_RecapProject2\Northwind.Entity\obj\Debug\Northwind.Entity.csproj.CoreCompileInputs.cache
+C:\Users\semih\source\repos\KurumsalMimari_RecapProject2\Northwind.Entity\obj\Debug\Northwind.Entity.dll
+C:\Users\semih\source\repos\KurumsalMimari_RecapProject2\Northwind.Entity\obj\Debug\Northwind.Entity.pdb
